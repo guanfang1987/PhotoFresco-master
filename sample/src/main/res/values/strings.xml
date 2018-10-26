@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoDraweeView</string>
+    <string name="view_pager">ViewPager</string>
+
+</resources>
